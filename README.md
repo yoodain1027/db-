@@ -5,3 +5,7 @@
 1) DB 생성 과정
  
 ![db1](https://github.com/user-attachments/assets/ad3e4f37-8ad4-4dda-85b3-85f9d2346460)
+
+1- DB 이름 설정 및 저장
+
+
