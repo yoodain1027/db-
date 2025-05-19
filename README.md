@@ -94,4 +94,15 @@ Body-raw-JSON 선택 후 Send 누르기
 
 
 
+요약 및 결과) 
+
+mysql을 통해 데이버베이스 및 테이블 구축 성공
+
+express 설정과 mysql 연결을 통해 서버 구축
+
+postman에서 post,get 요청
+
+서버 실행을 통해 결과 확인
+
+
 
