@@ -17,10 +17,14 @@
 ![스크린샷 2025-05-17 231255](https://github.com/user-attachments/assets/f7f7d0f6-eee4-41a7-9d74-519633d1963e)
 
 
+
+
+
 2) sever.js 코드 짜기
 
 1- 
 node.js에서 express 프레임워크 이용하여 서버 구축
+
 mysql 데이터베이스와 연결
 
 
@@ -65,6 +69,9 @@ mysql 데이터베이스와 연결
 
 
 
+
+
+
 3) postman 생성 후 연결
 
 
@@ -72,7 +79,11 @@ mysql 데이터베이스와 연결
 
 
 http://localhost:3000/db 및 아이디/비번 코드 입력
+
 Body-raw-JSON 선택 후 Send 누르기
+
+
+
 
 4) 결과 확인
 
