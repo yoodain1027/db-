@@ -25,7 +25,7 @@
 1- 
 node.js에서 express 프레임워크 이용하여 서버 구축
 
-mysql 데이터베이스와 연결
+  mysql 데이터베이스와 연결
 
 
 
